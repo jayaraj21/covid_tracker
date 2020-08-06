@@ -1,0 +1,13 @@
+.table{
+    margin-top: 30px;
+    overflow-y: scroll;
+    height: 400px;
+    background-color: rgb(226, 225, 225);
+
+}
+
+.table td{
+    padding: 0.3rem;
+   
+}
+
